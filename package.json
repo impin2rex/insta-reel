@@ -1,0 +1,25 @@
+{
+  "name": "insta-reel",
+  "version": "1.0.0",
+  "description": "You can get a downloadable link of instagram link.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node insta-reel"
+  },
+  "keywords": [],
+  "author": "impin2rex",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impin2rex/insta-reel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/impin2rex/insta-reel/issues"
+  },
+  "homepage": "https://github.com/impin2rex/insta-reel#readme"
+}
