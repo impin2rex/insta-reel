@@ -2,7 +2,7 @@
   "name": "insta-reel",
   "version": "2.0.0",
   "description": "You can get a downloadable link of instagram link.",
-  "main": "index.js",
+  "main": "insta-reel.js",
   "scripts": {
     "start": "node insta-reel"
   },
