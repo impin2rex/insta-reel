@@ -18,13 +18,13 @@ async function instaReel(URL) {
       PostPage: {
         [0]: {
           graphql: {
-            shortcode_media: { video_url },
+            shortcode_media: { display_url, video_url },
           },
         },
       },
     },
   } = JSON.parse(/window\._sharedData = (.+);/g.exec(script)[1]);
-  return video_url;
+  return { display_url, video_url };
 }
 
 module.exports = instaReel;

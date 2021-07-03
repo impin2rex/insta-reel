@@ -53,7 +53,10 @@ const URL = "https://www.instagram.com/reel/CP4_gXYIup1/?utm_medium=copy_link"; 
 
 ## Response
 ```sh
-https://instagram.fccu14-1.fna.fbcdn.net/v/t50.2886-16/198370938_205345488102850_8777608826093414179_n.mp4?_nc_ht=instagram.fccu14-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=usI6kP6O5f4AX8HMJEW&edm=APfKNqwBAAAA&ccb=7-4&oe=60E11234&oh=a565d58ba1091f06e3c4569b8c16ebfa&_nc_sid=74f7ba
+{
+  display_url: 'https://instagram.fccu14-1.fna.fbcdn.net/v/t51.2885-15/e35/197426457_1120064678484084_4275768831824583801_n.jpg?tp=1&_nc_ht=instagram.fccu14-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=pfmPmtFUaTYAX9vF0La&edm=APfKNqwBAAAA&ccb=7-4&oh=1b7b9f64d6588d6dabe5b52606d85d7a&oe=60E20A27&_nc_sid=74f7ba',
+  video_url: 'https://instagram.fccu14-1.fna.fbcdn.net/v/t50.2886-16/198370938_205345488102850_8777608826093414179_n.mp4?_nc_ht=instagram.fccu14-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=RXeUAKr7U8MAX-xVQP9&edm=APfKNqwBAAAA&ccb=7-4&oe=60E263B4&oh=4d4e6fb99853e2ba6c33a58a75725892&_nc_sid=74f7ba'
+}
 ```
 
 ## License

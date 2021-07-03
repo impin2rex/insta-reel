@@ -6,7 +6,13 @@
   "scripts": {
     "start": "node insta-reel"
   },
-  "keywords": [],
+  "keywords": [
+    "Instagram reel download using node js",
+    "reel",
+    "insta-reel",
+    "Instagram Reel",
+    "instagram reel link"
+  ],
   "author": "impin2rex",
   "license": "ISC",
   "dependencies": {
